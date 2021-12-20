@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kay1717
 - 👀 I’m interested in Web Development and Design
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on anything related to web development
 - 📫 How to reach me kptwumasi@stu.ucc.edu.gh
 
